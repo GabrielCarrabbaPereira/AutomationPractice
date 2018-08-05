@@ -1,7 +1,7 @@
 # Automação de testes
 Projeto de automação de testes com selenium escrito na linguagem python.
 
-Esse script foi desenvolvido para a loja virtual de demonstração disponível em [automationpractice.com](automationpractice.com).
+Esse script foi desenvolvido para a loja virtual de demonstração disponível em [automationpractice.com](https://automationpractice.com).
 
 ## Pré requisitos
 * IntelliJ - [jetbrains.com/idea](jetbrains.com/idea)
