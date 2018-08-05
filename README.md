@@ -1,24 +1,14 @@
-# AutomationPractice
-Projeto de automação com selenium
+# Automação de
+Projeto de automação de testes com selenium.
 
-# Treinamento Selenium
-Treinamento de Testes Automatizados com Selenium realizado na DBServer.
+Esse script foi desenvolvido para a loja virtual de demonstração disponível em "automationpractice.com".
 
-O script de teste foi desenvolvido para a loja virtual de demonstraçao disponível em VirtueMart e apresenta alguns conceitos de automação, tais como:
-
-TestSuites
-TestCases
-Tasks
-AppObjects
-Framework
-Reports
-Datapools
-Dataprovider
-Pré requisitos
+# Pré requisitos
 Eclipse IDE ou IntelliJ - eclipse.org e jetbrains.com/idea
 Maven - maven.apache.org
 JDK 8 - oracle.com
-Bibliotecas externas
+
+# Bibliotecas externas
 Dependências obtidas através do gerenciador de dependências do Maven.
 
 Selenium WebDriver - seleniumhq.org
