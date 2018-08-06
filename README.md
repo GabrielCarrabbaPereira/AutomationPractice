@@ -11,6 +11,3 @@ Esse script foi desenvolvido para a loja virtual de demonstração disponível e
 
 ## Bibliotecas externas
 * Selenium WebDriver - [seleniumhq.org](https://seleniumhq.org)
-* WebDriver Manager - [github.com/bonigarcia/webdrivermanager](https://github.com/bonigarcia/webdrivermanager)
-* JUnit - [junit.org](https://junit.org)
-* Extent Reports - [extentreports.com](https://extentreports.com)
